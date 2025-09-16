@@ -18,5 +18,13 @@
   "devDependencies": {
     "nodemon": "^3.1.10"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d0nn-opsbyte/Ke-wallet-service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/d0nn-opsbyte/Ke-wallet-service/issues"
+  },
+  "homepage": "https://github.com/d0nn-opsbyte/Ke-wallet-service#readme",
   "description": ""
 }
